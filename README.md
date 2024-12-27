@@ -50,7 +50,17 @@
 </div>
 
 </td><td valign="top" width="33%">
-### BD
+###  BD
+   
+<div align="center">  
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
+  </a>
+</p>
+</div>
+
+###  BD
    
 <div align="center">  
 <p align="center">
