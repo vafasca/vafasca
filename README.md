@@ -30,7 +30,7 @@
 <div align="center">  
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,angular,bootstrap, " />
+    <img src="https://skillicons.dev/icons?i=js,html,css,angular,bootstrap,tailwind" />
   </a>
 </p>
 </div>
@@ -44,13 +44,21 @@
 <div align="center">  
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,nodejs,php," />
+    <img src="https://skillicons.dev/icons?i=java,nodejs,php,maven" />
   </a>
 </p>
 </div>
 
 </td><td valign="top" width="33%">
-
+### BD
+   
+<div align="center">  
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
+  </a>
+</p>
+</div>
 
 </td></tr></table>  
 <br/>  
@@ -83,15 +91,12 @@
 ## Github Stats 📉
 
 <div align="center" style="display: flex;justify-content: center;align-items: center; flex-direction:column;width:100%">
-<img src="https://github-readme-stats.vercel.app/api?username=pulkit-30&show_icons=true&count_private=true&hide_border=true" align="center" />
+<img src="https://github-readme-stats.vercel.app/api?username=vafasca&show_icons=true&count_private=true&hide_border=true" align="center" />
 </div>
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pulkit-30&hide_border=true&layout=compact" align="left" />  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vafasca&hide_border=true&layout=compact" align="left" />  
 </div>
 <br/>  
 <br/>  
 
 ------------
-Credit: [pulkit-30](https://github.com/pulkit-30) 
-
-Last Edited on: 03/08/2021
