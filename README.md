@@ -21,7 +21,7 @@
 
 ## My Skill Set 👩‍💻
 
-<table><tr><td valign="top" width="33%">
+<table><tr><td valign="top" width="25%">
 
 
 
@@ -35,7 +35,7 @@
 </p>
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="25%">
 
 
 
@@ -49,7 +49,7 @@
 </p>
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="25%">
 ###  BD
    
 <div align="center">  
@@ -60,7 +60,7 @@
 </p>
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="25%">
 ###  BD
    
 <div align="center">  
