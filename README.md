@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on Skills  
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- ❓ Ask me about anything related to AI stack and related technologies  
   
 
 - ⚡ Fun fact: I love play videogames and learn news things 😋  
